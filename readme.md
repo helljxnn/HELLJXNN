@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/HELLJXNN/HELLJXNN/main/Jenn_Banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/HELLJXNN/HELLJXNN/main/JennBanner.png" width="100%"/>
 
 # `< Hello World! />`
 ### ✨ I'm Jenn — Software Developer & Security Enthusiast ✨
 
-*Building things, breaking things (ethically), and learning endlessly* 🚀
+*Building things, breaking things, and learning endlessly* 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennifer%20Lascarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-lascarro-sosa-054169308)
 
@@ -13,10 +13,10 @@
 
 ```yaml
 Name     : Jenn
-Role     : Software Developer & Security Enthusiast
+Role     : Software Developer & Security Learner
 Location : Colombia 🇨🇴
 Mission  : Build. Learn. Share. Repeat.
-Status   : Always exploring 🔍
+Status   : Always exploring 
 ```
 
 > *"Passionate about technology, cybersecurity,*  
