@@ -51,8 +51,10 @@ Status   : Always exploring 🔍
 
 ## 📊 Stats
 
-<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HELLJXNN&layout=compact&theme=tokyonight"/>
-<img src="https://streak-stats.demolab.com?user=HELLJXNN&theme=tokyonight"/>
+<p>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HELLJXNN&layout=compact&theme=tokyonight" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=HELLJXNN&theme=tokyonight" width="48%"/>
+</p>
 
 ---
 
