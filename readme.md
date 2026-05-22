@@ -1,6 +1,5 @@
-<div align="center">
-
-<img src="https://media1.tenor.com/m/Q6z2wfQ49UIAAAAC/thumbs-up-reagan-ridley.gif" width="25%" height="220px"/>
+<!-- BANNER: reemplaza esta línea con tu imagen cuando la tengas -->
+<!-- <img src="URL_DE_TU_BANNER" width="100%"/> -->
 
 # `< Hello World! />`
 ### ✨ I'm Jenn — Software Developer & Security Enthusiast ✨
@@ -9,17 +8,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennifer%20Lascarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-lascarro-sosa-054169308)
 
-</div>
-
 ---
-
-<img align="right" src="https://media1.tenor.com/m/bSIjvJnpN9wAAAAd/reagan-dance-reagan-ridley.gif" width="100"/>
 
 ## 🌸 About me
 
 ```yaml
 Name     : Jenn
-Role     : Web Developer & Security Enthusiast
+Role     : Software Developer & Security Enthusiast
 Location : Colombia 🇨🇴
 Mission  : Build. Learn. Share. Repeat.
 Status   : Always exploring 🔍
@@ -56,20 +51,11 @@ Status   : Always exploring 🔍
 
 ## 📊 Stats
 
-<div align="center">
-
 <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HELLJXNN&layout=compact&theme=tokyonight"/>
-
-</div>
+<img src="https://streak-stats.demolab.com?user=HELLJXNN&theme=tokyonight"/>
 
 ---
 
-<div align="center">
-
 ### ᴛʀᴜꜱᴛ ᴛʜᴇ ᴘʀᴏᴄᴇꜱꜱ ✨
 
-<img src="https://streak-stats.demolab.com?user=HELLJXNN&theme=tokyonight"/>
-
 *Thanks for stopping by! See you around* 🎆
-
-</div>
