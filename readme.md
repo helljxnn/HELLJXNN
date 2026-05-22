@@ -58,7 +58,7 @@ Status   : Always exploring 🔍
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HELLJXNN&layout=compact&theme=tokyonight"/>
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HELLJXNN&layout=compact&theme=tokyonight"/>
 
 </div>
 
