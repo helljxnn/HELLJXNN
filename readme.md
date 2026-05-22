@@ -58,7 +58,7 @@ Status   : Always exploring 🔍
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HELLJXNN/HELLJXNN/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HELLJXNN&layout=compact&theme=tokyonight"/>
 
 </div>
 
