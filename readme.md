@@ -1,5 +1,4 @@
-<!-- BANNER: reemplaza esta línea con tu imagen cuando la tengas -->
-<!-- <img src="URL_DE_TU_BANNER" width="100%"/> -->
+<img src="https://raw.githubusercontent.com/HELLJXNN/HELLJXNN/main/Jenn_Banner.png" width="100%"/>
 
 # `< Hello World! />`
 ### ✨ I'm Jenn — Software Developer & Security Enthusiast ✨
