@@ -17,7 +17,7 @@ Name     : Jenn
 Role     : Software Developer & Security Learner
 Location : Colombia 🇨🇴
 Mission  : Build. Learn. Share. Repeat.
-Status   : Always exploring 
+Status   : Always exploring
 ```
 
 > *"Passionate about technology, cybersecurity,*  
