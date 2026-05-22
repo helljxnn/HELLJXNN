@@ -10,7 +10,7 @@
 
 ---
 
-## 🌸 About me
+## 🦋 About me
 
 ```yaml
 Name     : Jenn
