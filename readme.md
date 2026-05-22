@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/HELLJXNN/HELLJXNN/main/JennBanner.png" width="100%"/>
 
 # `< Hello World! />`
-### ✨ I'm Jenn — Software Developer & Security Enthusiast ✨
+
+### ✨ I'm Jenn — Software Developer & Security Passionate 👾
 
 *Building things, breaking things, and learning endlessly* 🚀
 
