@@ -36,7 +36,6 @@ Status   : Always exploring
 **Backend & Tools**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
 ---
