@@ -2,7 +2,7 @@
 
 # `< Hello World! />`
 
-### ✨ I'm Jenn — Software Developer & Security Passionate 👾
+### ✨ I'm Jenn — Software Developer & Security Passionate 🧠
 
 *Building things, breaking things, and learning endlessly* 🚀
 
