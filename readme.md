@@ -58,6 +58,4 @@ Status   : Always exploring
 
 ---
 
-### ᴛʀᴜꜱᴛ ᴛʜᴇ ᴘʀᴏᴄᴇꜱꜱ ✨
-
 *Thanks for stopping by! See you around* 🎆
