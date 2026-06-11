@@ -10,7 +10,7 @@
 
 ---
 
-## 🦋 About me.
+## 🦋 About me
 
 ```yaml
 Name     : Jenn
@@ -25,7 +25,7 @@ Status   : Always exploring
 
 ---
 
-## 🛠️ Tech Stack.
+## 🛠️ Tech Stack
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -40,7 +40,7 @@ Status   : Always exploring
 
 ---
 
-## 🏆 Certifications.
+## 🏆 Certifications
 
 <a href="https://www.credly.com/badges/f450d186-35e7-4907-8977-48dcd2d3934d/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/🛡️%20Cybersecurity%20Awareness%20Learner-View%20Credential-6C5CE7?style=for-the-badge" />
@@ -48,7 +48,7 @@ Status   : Always exploring
 
 ---
 
-## 📊 Stats.
+## 📊 Stats
 
 <p>
   <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HELLJXNN&layout=compact&theme=tokyonight" width="45%"/>
