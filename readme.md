@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/HELLJXNN/HELLJXNN/main/JennBanner.png" width="100%"/>
 
-# `< Hello :) />`
+# `< Hi :) />`
 
 ### ✨ I'm Jenn — Software Developer & Security Passionate 🧠
 
