@@ -15,7 +15,7 @@
 ```yaml
 Name     : Jennifer
 Role     : Software Developer & Security Learner
-Location : Colombia 🇨🇴
+Location : Colombia
 Mission  : Build. Learn. Share. Repeat.
 Status   : Always exploring
 ```
