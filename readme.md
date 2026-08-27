@@ -58,7 +58,6 @@ Status   : Building, learning, improving
 
 ---
 
----
 
 ## 🏆 Certifications
 
