@@ -53,7 +53,7 @@ Status   : Always learning
 <p>
   <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=HELLJXNN&layout=compact&theme=tokyonight" width="45%"/>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=HELLJXNN&theme=tokyonight" width="48%"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=HELLJXNN&theme=tokyonight" width="48%"/> -->
 </p>
 
 ---
