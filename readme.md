@@ -2,7 +2,7 @@
 
 # `< Welcome />`
 
-### ✨ I'm Jenn — Software Developer & Security Learner 🧠
+### ✨ I'm Jenn — Software Developer | Cybersecurity & AI 🧠
 
 *Building things, breaking things, and learning endlessly* 🚀
 
@@ -14,10 +14,10 @@
 
 ```yaml
 Name     : Jennifer
-Role     : Software Developer & Security Learner
+Role     : Software Developer
 Location : Colombia
-Mission  : Build. Learn. Share. Repeat.
-Status   : Always learning
+Focus    : Software Engineering, Cybersecurity & AI
+Status   : Building, learning, improving
 ```
 
 > *"Passionate about technology, cybersecurity,*  
@@ -27,16 +27,36 @@ Status   : Always learning
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-
-**Backend & Tools**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+**Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+
+**Backend**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+
+**AI**  
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/-RAG-6C5CE7?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge)
+
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+---
 
 ---
 
