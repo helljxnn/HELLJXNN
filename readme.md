@@ -16,7 +16,7 @@
 Name     : Jennifer
 Role     : Software Developer
 Location : Colombia
-Focus    : Software Engineering, Cybersecurity & AI
+Focus    : Software, Cybersecurity & AI
 Status   : Building, learning, improving
 ```
 
