@@ -15,7 +15,6 @@
 ```yaml
 Name     : Jennifer
 Role     : Software Developer
-Location : Colombia
 Focus    : Software, Cybersecurity & AI
 Status   : Building, learning, improving
 ```
