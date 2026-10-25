@@ -2,7 +2,7 @@
 
 # `< HI :) />`
 
-### ✨ I'm Jenn — Software Developer | Cybersecurity & AI 🧠
+### ✨ I'm Jenn — Software Developer | Cybersecurity | AI 🧠
 
 *Building things, breaking things, and learning endlessly* 🚀
 
