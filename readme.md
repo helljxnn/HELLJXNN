@@ -15,7 +15,7 @@
 ```yaml
 Name     : Jennifer
 Role     : Software Developer
-Focus    : Software, Cybersecurity & AI
+Focus    : Software | Cybersecurity | AI
 Status   : Building, learning, improving
 ```
 
