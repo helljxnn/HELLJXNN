@@ -19,8 +19,8 @@ Focus    : Software | Cybersecurity | AI
 Status   : Building, learning, improving
 ```
 
-> *"Passionate about technology*  
-> *and turning ideas into real things"*
+> *Passionate about technology*  
+> *and turning ideas into real things*
 
 ---
 
