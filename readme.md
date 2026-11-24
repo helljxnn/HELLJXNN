@@ -20,7 +20,7 @@ Status   : Building, learning, improving
 ```
 
 > *Passionate about technology*  
-> *and turning ideas into real things*
+> *and turning ideas into real things.*
 
 ---
 
